@@ -1,0 +1,36 @@
+body{
+    background-color: turquoise;
+    font-family: cursive;
+    
+
+
+
+}
+.grad{
+    font-size: 22px;
+    color: navy;
+
+}
+
+
+
+#naslov{
+    font-size: 50px;
+
+}
+.poveznice{
+    font-size: 18;
+}
+
+.sp{
+    background-color: blanchedalmond;
+    color: black;
+}
+.toranj{
+    font-size: 22px;
+    color: navy;
+}
+.toranj1{
+    background-color: oldlace;
+    color: black;
+}
